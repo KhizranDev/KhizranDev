@@ -1,16 +1,26 @@
-## Hi there 👋
+👨‍💻 Full Stack Developer | HTML/CSS | .NET | PHP | C# | WordPress | Shopify | Flutter | MS SQL Server | MySQL
 
-<!--
-**KhizranDev/KhizranDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 15+ Years of Experience in building high-performance web and mobile applications using Microsoft and other platform technologies. Passionate about clean architecture, scalable solutions, and performance optimization.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Backend: .NET, PHP, C#, Flutter
+
+    Frontend: HTML5, CSS3, JavaScript for dynamic UI/UX solutions
+
+    Platforms: .NET, WordPress, Shopify, Flutter
+
+    Database: MS SQL Server, MySQL
+
+    Desktop Apps: WinForms applications for business solutions
+
+    Tools & DevOps: GitHub, CI/CD pipelines, DevOps tools
+
+🌟 What I Do
+
+✔ Design and develop scalable and robust applications
+✔ Optimize performance and database queries
+✔ Integrate REST APIs and third-party services
+✔ Build WinForms applications for business solutions
+
+📫 Let's Connect!
